@@ -34,7 +34,7 @@ async function main() {
 
     for (const country in processedData) {
       await fs.promises.writeFile(
-        `./api/${country}.json`,
+        `./api/${country}`,
         JSON.stringify(processedData[country])
       );
     }
