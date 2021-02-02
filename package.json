@@ -1,0 +1,22 @@
+{
+  "name": "administrative-divisions-db",
+  "version": "0.0.1",
+  "description": "Administrative regions as a JSON API over Github",
+  "main": "parser.js",
+  "scripts": {
+    "generate": "node parser"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kamikazechaser/administrative-divisions-db.git"
+  },
+  "keywords": [
+    "geo",
+    "geo-names"
+  ],
+  "author": "Mohamed Sohail <mohamedsohailazim@gmail.com>",
+  "license": " Unlicense",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}
