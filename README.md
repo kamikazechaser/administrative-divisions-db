@@ -11,13 +11,13 @@ The current alternatives are unreliable:
 
 ## About
 
-This repo automagically serves an "API" over GitCDN/Rawgit (Cloudflare network). No limits and uptime is guranteed. To get the administrative division of a particular country, simply make a GET request to either:
+This repo automagically serves an "API" over Rawgit (Cloudflare network). No limits and uptime is guranteed. To get the administrative division of a particular country, simply make a GET request to:
 
 ```
-https://gitcdn.xyz/repo/kamikazechaser/administrative-divisions-db/master/api/KE.json
+https://rawcdn.githack.com/kamikazechaser/administrative-divisions-db/master/api/{COUNTRY_CODE}.json
 
-https://rawcdn.githack.com/kamikazechaser/administrative-divisions-db/22034ec51765c618461730c8f55197ee8c060cf2/api/KE.json
-
+# For example
+https://rawcdn.githack.com/kamikazechaser/administrative-divisions-db/master/api/KE.json
 ```
 
 Data is sourced from [GeoNames](http://www.geonames.org/).
