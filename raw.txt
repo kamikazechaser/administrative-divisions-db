@@ -1235,9 +1235,9 @@ HU.18	Szabolcs-Szatmár-Bereg	Szabolcs-Szatmar-Bereg	715593
 HU.20	Jász-Nagykun-Szolnok	Jasz-Nagykun-Szolnok	719637
 HU.11	Heves	Heves	720002
 HU.10	Hajdú-Bihar	Hajdu-Bihar	720293
-HU.06	Csongrád	Csongrad	721589
+HU.06	Csongrád-Csanád	Csongrad-Csanad	721589
 HU.04	Borsod-Abaúj-Zemplén	Borsod-Abauj-Zemplen	722064
-HU.03	Bekes County	Bekes County	722433
+HU.03	Békés	Bekes	722433
 HU.24	Zala	Zala	3042613
 HU.23	Veszprém	Veszprem	3042925
 HU.22	Vas	Vas	3043047
